@@ -1,4 +1,4 @@
-# Mis Proyectos en PHP
+# PHProyectos
 
 ## Descripción
 
